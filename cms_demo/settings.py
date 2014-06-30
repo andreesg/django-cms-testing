@@ -157,7 +157,7 @@ INSTALLED_APPS = (
 )
 
 IMAGESTORE_SHOW_USER = False
-#ZINNIA_ENTRY_BASE_MODEL = 'cmsplugin_zinnia.placeholder.EntryPlaceholder'
+ZINNIA_ENTRY_BASE_MODEL = 'cmsplugin_zinnia.placeholder.EntryPlaceholder'
 HAYSTACK_ROUTERS = ["aldryn_search.router.LanguageRouter",]
 
 ALDRYN_SEARCH_REGISTER_APPHOOK = True
