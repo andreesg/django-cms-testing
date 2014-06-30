@@ -1,19 +1,27 @@
 Django==1.6.5
 Pillow==2.4.0
 South==0.8.4
+URLObject==2.3.4
+aldryn-search==0.1.9
 argparse==1.2.1
 beautifulsoup4==4.3.2
 -e git://github.com/maccesch/cmsplugin-contact.git@b8324ad34125da56a562c7cf730be8fc9dd7ed36#egg=cmsplugin_contact-master
 cmsplugin-zinnia==0.6
 dj-database-url==0.3.0
+django-appconf==0.6
 django-autocomplete-light==1.4.14
 -e git://github.com/Fantomas42/django-blog-zinnia.git@5ace11da4c81cb1d2f7267c8b0336e6c00fb2909#egg=django_blog_zinnia-origin/develop
 django-classy-tags==0.5.1
 django-cms==3.0.1
 django-contrib-comments==1.5
+django-form-designer==0.8.0
+django-haystack==2.1.0
 django-mptt==0.6.0
+django-picklefield==0.3.1
 django-reversion==1.8.0
 django-sekizai==0.7
+django-spurl==0.6
+django-standard-form==1.1.1
 django-tagging==0.3.2
 django-xmlrpc==0.1.5
 djangocms-admin-style==0.2.2
@@ -31,8 +39,11 @@ djangocms-text-ckeditor==2.1.4
 djangocms-video==0.0.1
 html5lib==0.999
 -e git://github.com/hovel/imagestore.git@36af6d9ef1b9c9137b7a7028c335abdb4f79feff#egg=imagestore-master
+pyelasticsearch==0.6.1
 pyparsing==2.0.2
 pytz==2014.3
+requests==2.3.0
+simplejson==3.5.3
 six==1.6.1
 solr==0.4
 sorl-thumbnail==11.12
