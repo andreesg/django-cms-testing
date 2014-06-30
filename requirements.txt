@@ -1,0 +1,39 @@
+Django==1.6.5
+Pillow==2.4.0
+South==0.8.4
+argparse==1.2.1
+beautifulsoup4==4.3.2
+-e git://github.com/maccesch/cmsplugin-contact.git@b8324ad34125da56a562c7cf730be8fc9dd7ed36#egg=cmsplugin_contact-master
+cmsplugin-zinnia==0.6
+dj-database-url==0.3.0
+django-autocomplete-light==1.4.14
+-e git://github.com/Fantomas42/django-blog-zinnia.git@5ace11da4c81cb1d2f7267c8b0336e6c00fb2909#egg=django_blog_zinnia-origin/develop
+django-classy-tags==0.5.1
+django-cms==3.0.1
+django-contrib-comments==1.5
+django-mptt==0.6.0
+django-reversion==1.8.0
+django-sekizai==0.7
+django-tagging==0.3.2
+django-xmlrpc==0.1.5
+djangocms-admin-style==0.2.2
+djangocms-column==1.3
+djangocms-file==0.0.1
+djangocms-flash==0.0.2
+djangocms-googlemap==0.0.5
+djangocms-inherit==0.0.1
+djangocms-installer==0.4.2
+djangocms-link==1.3.4
+djangocms-picture==0.0.2
+djangocms-style==1.3
+djangocms-teaser==0.0.1
+djangocms-text-ckeditor==2.1.4
+djangocms-video==0.0.1
+html5lib==0.999
+-e git://github.com/hovel/imagestore.git@36af6d9ef1b9c9137b7a7028c335abdb4f79feff#egg=imagestore-master
+pyparsing==2.0.2
+pytz==2014.3
+six==1.6.1
+solr==0.4
+sorl-thumbnail==11.12
+wsgiref==0.1.2
